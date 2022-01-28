@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adam Bartel/
+- 👋 Hi, I’m Adam Bartel.
 - 👀 I’m interested in creating interesting and engaging visualizations.
 - 🌱 I’m currently learning Tableau, SQL, Python.
 - 💞️ I’m looking to collaborate on ...
